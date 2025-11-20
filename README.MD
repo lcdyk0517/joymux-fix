@@ -176,3 +176,9 @@ Open the run page; in the **Artifacts** box, download the zip (it contains just 
 - **Artifact retention**: change `retention-days` in the “Upload patched DTB only” step (`1` by default).  
 - **Add more outputs**: if you also want `before.dts`, `after.dts`, or a diff, adjust the workflow to keep and upload those files.  
 - **Stricter AMUX validation**: you can restrict `amux_map` to a few common patterns in `tools/patch_og3_joypad.py` if you prefer failing fast on unusual permutations.
+
+# ❤️ **Support the Project**
+
+If you find ArkOS4Clone helpful and want to support future development:\ 👉 **https://ko-fi.com/lcdyk**
+
+Every donation helps testing new devices, improving compatibility, and speeding up development.\ Thank you for your support! 🙏
